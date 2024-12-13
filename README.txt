@@ -14,7 +14,7 @@ A few standard additional packages such as tqdm may be required.
 
 Datasets:
 
-The experiments in the paper are conducted on two datasets:
+The experiments in the paper conducted on two classification datasets are presented here:
 
 1) CIFAR-10 dataset: This can be downloaded from the source at (https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz). Extract the data after download.
 
