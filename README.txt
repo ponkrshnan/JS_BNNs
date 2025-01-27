@@ -37,4 +37,8 @@ python3 main.py
 
 The results of training, evaluation, and testing are stored in the "Experiments" folder.
 
+## Acknowledgments
+
+This work was supported by grant DE-SC0023432 funded by the U.S. Department of Energy, Office of Science. This research used resources of the National Energy Research Scientific Computing Center, a DOE Office of Science User Facility supported by the Office of Science of the U.S. Department of Energy under Contract No. DE-AC02-05CH11231, using NERSC awards BES-ERCAP0025205 and BES-ERCAP0025168.
+
 
